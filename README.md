@@ -1,6 +1,6 @@
 # 💪 Nutri-Fit — Diet & Workout Plans Built Around You
 
-### 🌐 Live Website: **[nutri-fit-website-pi.vercel.app](https://nutri-fit-website-pi.vercel.app/)**
+### 🌐 Live Website: **[nutri-fit-website-ravnoor.vercel.app](https://nutri-fit-website-ravnoor.vercel.app/)**
 
 > Personalized diet + workout coaching. Nutri-Fit turns your body stats, food preferences and schedule into a precise diet and training plan — exact calories, macros, meals and workouts. No generic PDFs. No guesswork.
 
@@ -27,9 +27,9 @@
 
 ## 🔗 Links
 
-- **Live Website:** https://nutri-fit-website-pi.vercel.app/
+- **Live Website:** https://nutri-fit-website-ravnoor.vercel.app/
 - **Developer:** [Ravnoor Singh](https://github.com/Ravnoor-Singh)
 
 ---
 
-*Your body. Your goal. One plan built around you.*
+*Eat well. Train hard. Live fully.*
